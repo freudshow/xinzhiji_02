@@ -146,7 +146,7 @@
       "ModbusRegCount": 1,
       "ModbusRegVal": 65280,
       "ModbusRegVal_0x10": null,
-      "UartNo": 3,
+      "UartNo": 1,
       "SndFramCount": 2,
       "YkDesc": "下挂遥控110"
     },
@@ -161,7 +161,7 @@
       "ModbusRegCount": 1,
       "ModbusRegVal": 65280,
       "ModbusRegVal_0x10": null,
-      "UartNo": 3,
+      "UartNo": 1,
       "SndFramCount": 2,
       "YkDesc": "下挂遥控111"
     }
