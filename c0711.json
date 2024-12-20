@@ -1145,7 +1145,7 @@
       "No": 4,
       "Name": "设备[1]-有压自动合闸软压板遥控32",
       "Unit": null,
-      "Addr": 24580,
+      "Addr": 24579,
       "RealDevNo": 32,
       "type": 2,
       "Idx": 0
@@ -1157,7 +1157,7 @@
       "No": 5,
       "Name": "设备[1]-有压自动合闸软压板遥控32",
       "Unit": null,
-      "Addr": 24580,
+      "Addr": 24579,
       "RealDevNo": 32,
       "type": 2,
       "Idx": 0
@@ -1169,7 +1169,7 @@
       "No": 6,
       "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
       "Unit": null,
-      "Addr": 24581,
+      "Addr": 24580,
       "RealDevNo": 24,
       "type": 2,
       "Idx": 0
@@ -1181,7 +1181,7 @@
       "No": 7,
       "Name": "设备[1]-子方阵AVC投入(单点)_软压板遥控24",
       "Unit": null,
-      "Addr": 24581,
+      "Addr": 24580,
       "RealDevNo": 24,
       "type": 2,
       "Idx": 0
@@ -1193,7 +1193,7 @@
       "No": 8,
       "Name": "设备[0]-下挂遥控110",
       "Unit": null,
-      "Addr": 24582,
+      "Addr": 24581,
       "RealDevNo": 110,
       "type": 2,
       "Idx": 0
@@ -1205,7 +1205,7 @@
       "No": 9,
       "Name": "设备[0]-下挂遥控111",
       "Unit": null,
-      "Addr": 24582,
+      "Addr": 24581,
       "RealDevNo": 111,
       "type": 2,
       "Idx": 0
@@ -1217,7 +1217,7 @@
       "No": 10,
       "Name": "设备[0]-逆变器1-组合关机",
       "Unit": null,
-      "Addr": 24583,
+      "Addr": 24582,
       "RealDevNo": 241,
       "type": 2,
       "Idx": 0
@@ -1229,7 +1229,7 @@
       "No": 11,
       "Name": "设备[0]-逆变器1-组合开机",
       "Unit": null,
-      "Addr": 24583,
+      "Addr": 24582,
       "RealDevNo": 242,
       "type": 2,
       "Idx": 0
@@ -1241,7 +1241,7 @@
       "No": 12,
       "Name": "设备[0]-逆变器2-组合关机",
       "Unit": null,
-      "Addr": 24584,
+      "Addr": 24583,
       "RealDevNo": 243,
       "type": 2,
       "Idx": 0
@@ -1253,7 +1253,7 @@
       "No": 13,
       "Name": "设备[0]-逆变器2-组合开机",
       "Unit": null,
-      "Addr": 24584,
+      "Addr": 24583,
       "RealDevNo": 244,
       "type": 2,
       "Idx": 0
@@ -1265,7 +1265,7 @@
       "No": 14,
       "Name": "设备[0]-逆变器3-组合关机",
       "Unit": null,
-      "Addr": 24585,
+      "Addr": 24584,
       "RealDevNo": 245,
       "type": 2,
       "Idx": 0
@@ -1277,7 +1277,7 @@
       "No": 15,
       "Name": "设备[0]-逆变器3-组合开机",
       "Unit": null,
-      "Addr": 24585,
+      "Addr": 24584,
       "RealDevNo": 246,
       "type": 2,
       "Idx": 0
