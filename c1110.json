@@ -1,7 +1,7 @@
 {
   "TcpModeEnable": 0,
   "ClearData": 1,
-  "SendFramePeriod": 500,
+  "SendFramePeriod": 3000,
   "dataset": [
     {
       "DevIndex": "0",
@@ -16,7 +16,7 @@
           "ModbusRegAddr": 29,
           "GetRegCount": 2,
           "AreaNum": 0,
-          "DataProperty": 1,
+          "DataProperty": 3,
           "DataType": "ModbusDataType_u32",
           "DataTypeEnum": 2,
           "LowAddr": 29,

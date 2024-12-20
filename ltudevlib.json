@@ -1,9 +1,9 @@
 {
   "YcLimiteEnable": 0,
-  "TotalYcCount": 737,
+  "TotalYcCount": 736,
   "TotalYxCount": 329,
   "TotalYkCount": 101,
-  "TotalDDCount": 55,
+  "TotalDDCount": 56,
   "TotalParameterCount": 0,
   "DataItemCount": 0,
   "realdatabaseclassRoot": [
@@ -28237,7 +28237,7 @@
       "linkNo": 11,
       "devNo": 1,
       "RegNo": 1,
-      "type": 1,
+      "type": 3,
       "DataModelName": "",
       "DevAddr": null,
       "DevModelName": null,
@@ -28252,7 +28252,7 @@
       "YcLowLimite": 0.5,
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 45317,
+      "GenerateModbusSlaveAddr": 45319,
       "TypeProperty": 0
     },
     {
