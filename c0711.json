@@ -2,7 +2,7 @@
   "Pad": {
     "TotalYcCount": 406,
     "TotalYxCount": 282,
-    "TotalYkCount": 16,
+    "TotalYkCount": 22,
     "TotalDDCount": 13,
     "TotalParameterCount": 0,
     "YcRatioEnable": 1,
@@ -7519,6 +7519,78 @@
       "Unit": null,
       "Addr": 24584,
       "RealDevNo": 246,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 16,
+      "Name": "设备[0]-逆变器4-组合关机",
+      "Unit": null,
+      "Addr": 24585,
+      "RealDevNo": 247,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 17,
+      "Name": "设备[0]-逆变器4-组合开机",
+      "Unit": null,
+      "Addr": 24585,
+      "RealDevNo": 248,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 18,
+      "Name": "设备[0]-逆变器5-组合关机",
+      "Unit": null,
+      "Addr": 24586,
+      "RealDevNo": 249,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 19,
+      "Name": "设备[0]-逆变器5-组合开机",
+      "Unit": null,
+      "Addr": 24586,
+      "RealDevNo": 250,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 1,
+      "No": 20,
+      "Name": "设备[0]-逆变器6-组合关机",
+      "Unit": null,
+      "Addr": 24587,
+      "RealDevNo": 251,
+      "type": 2,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 2,
+      "No": 21,
+      "Name": "设备[0]-逆变器6-组合开机",
+      "Unit": null,
+      "Addr": 24587,
+      "RealDevNo": 252,
       "type": 2,
       "Idx": 0
     }

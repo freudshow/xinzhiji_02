@@ -149,6 +149,156 @@
           "MaxRetryTimes": 3
         }
       ]
+    },
+    {
+      "YkNo": 247,
+      "ProType": 0,
+      "beizhu": "逆变器4-组合关机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 112,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 113,
+          "State": 0,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
+    },
+    {
+      "YkNo": 248,
+      "ProType": 0,
+      "beizhu": "逆变器4-组合开机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 112,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 114,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
+    },
+    {
+      "YkNo": 249,
+      "ProType": 0,
+      "beizhu": "逆变器5-组合关机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 115,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 116,
+          "State": 0,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
+    },
+    {
+      "YkNo": 250,
+      "ProType": 0,
+      "beizhu": "逆变器5-组合开机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 115,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 117,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
+    },
+    {
+      "YkNo": 251,
+      "ProType": 0,
+      "beizhu": "逆变器6-组合关机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 118,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 119,
+          "State": 0,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
+    },
+    {
+      "YkNo": 252,
+      "ProType": 0,
+      "beizhu": "逆变器6-组合开机",
+      "CmdConut": 2,
+      "JudgeResults": 0,
+      "CmdArr": [
+        {
+          "Order": 0,
+          "YKNo": 118,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        },
+        {
+          "Order": 1,
+          "YKNo": 120,
+          "State": 1,
+          "YkWaitTime": 30,
+          "YXNo": 0,
+          "MaxRetryTimes": 3
+        }
+      ]
     }
   ]
 }
