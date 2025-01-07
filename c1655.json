@@ -1,0 +1,148 @@
+{
+  "DataItem": [
+    {
+      "no": 0,
+      "SrcDataRtdbNo": 1638,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 3000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1699,
+      "desc": "并网点正向有功电能"
+    },
+    {
+      "no": 1,
+      "SrcDataRtdbNo": 1090,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1700,
+      "desc": "逆变器1-日发电量"
+    },
+    {
+      "no": 2,
+      "SrcDataRtdbNo": 1091,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1701,
+      "desc": "逆变器1-总发电量"
+    },
+    {
+      "no": 3,
+      "SrcDataRtdbNo": 1178,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1702,
+      "desc": "逆变器2-日发电量"
+    },
+    {
+      "no": 4,
+      "SrcDataRtdbNo": 1179,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1703,
+      "desc": "逆变器2-总发电量"
+    },
+    {
+      "no": 5,
+      "SrcDataRtdbNo": 1266,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1704,
+      "desc": "逆变器3-日发电量"
+    },
+    {
+      "no": 6,
+      "SrcDataRtdbNo": 1267,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1705,
+      "desc": "逆变器3-总发电量"
+    },
+    {
+      "no": 7,
+      "SrcDataRtdbNo": 1354,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1706,
+      "desc": "逆变器4-日发电量"
+    },
+    {
+      "no": 8,
+      "SrcDataRtdbNo": 1355,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1707,
+      "desc": "逆变器4-总发电量"
+    },
+    {
+      "no": 9,
+      "SrcDataRtdbNo": 1442,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1708,
+      "desc": "逆变器5-日发电量"
+    },
+    {
+      "no": 10,
+      "SrcDataRtdbNo": 1443,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1709,
+      "desc": "逆变器5-总发电量"
+    },
+    {
+      "no": 11,
+      "SrcDataRtdbNo": 1530,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1710,
+      "desc": "逆变器6-日发电量"
+    },
+    {
+      "no": 12,
+      "SrcDataRtdbNo": 1531,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 1000.0,
+      "ContinueClock": 5,
+      "DestDataRtdbNo": 1711,
+      "desc": "逆变器6-总发电量"
+    }
+  ],
+  "saveTime": 10
+}
